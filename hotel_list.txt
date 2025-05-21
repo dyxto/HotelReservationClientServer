@@ -1,0 +1,17 @@
+hotelID,name,city,state,rating,amenities,room_types
+23574,Hotel Edison,New York City,New York,7.4,WiFi-Parking-Fitness center,20
+95690,The Manhattan,New York City,New York,5.6,Breakfast-Housekeeping-WiFi,15
+12353,The Pod,New York City,New York,8.1,Bar-HVAC-Terrace,4
+56783,Doubletree,New York City,New York,7,Restaurant-Room service-Fitness center,10
+35573,Park Central,New York City,New York,7.3,Housekeeping-Restaurant-Bar,10
+30192,The Metric,Los Angeles,California,9.2,Private Parking-Wifi-Breakfast,10
+20023,Hollywood Historic Hotel,Los Angeles,California,8,Private Parking-Elevator-Bar,3
+41423,Park Plaza Lodge,Los Angeles,California,8.6,Outdoor Swimming Pool-Room service-Free Parking,7
+50182,Doubletree,Los Angeles,California,7.3,Private Parking-Breakfast-Restaurant,15
+12030,The Delphi,Los Angeles,California,8.1,Fitness center-Parking on site-Front desk,11
+76453,Hilton Atlanta,Atlanta,Georgia,7.6,Parking on site-Restaurant-Family rooms,15
+10051,Hilton Garden Inn,Atlanta,Georgia,8.1,Family rooms-Restaurant-Indoor swimming pool,8
+52671,Courtyard by Marriot,Atlanta,Georgia,8.7,WiFi-Family rooms-Breakfast,3
+97411,Hampton Inn,Chicago,Illinois,8.5,Terrace-Indoor swimming pool-Parking,11
+14563,SpringHill Suites,Chicago,Illinois,8.5,Laundry-WiFi-Breakfast,7
+85553,Hilton Garden Inn,Miami,Florida,8.6,Outdoor swimming pool-Free parking-Free WiFi,8
