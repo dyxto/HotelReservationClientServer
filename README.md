@@ -38,3 +38,8 @@ g. **Portfolio Completion:** The project enhances the team's portfolio by showca
 
 **Conclusion:**\
 Overall, the Hotel Reservation System project represents a significant achievement in implementing a functional client-server application for hotel bookings. By addressing existing issues and considering potential enhancements outlined in this report, the system can evolve into a comprehensive solution catering to the needs of both hotel administrators and guests. With further refinement and enhancements, it has the potential to become a valuable tool for managing hotel reservations efficiently.
+
+# How to Use
+
+1. Run **socket_server.py** in dedicated terminal
+2. Run **socket_client.py** in separate terminals for each client
